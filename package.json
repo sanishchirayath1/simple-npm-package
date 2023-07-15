@@ -1,5 +1,5 @@
 {
-  "name": "@snyk-labs/simple-npm-package",
+  "name": "@sanishchirayath/simple-npm-package",
   "version": "0.0.2",
   "description": "A simple npm package for demonstration purposes and use in a Node.js app.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snyk-labs/simple-npm-package.git"
+    "url": "git+https://github.com/sanishchirayath1/simple-npm-package.git"
   },
-  "author": "Snyk Labs",
+  "author": "Sanish chirayath",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snyk-labs/simple-npm-package/issues"
+    "url": "https://github.com/sanishchirayath1/simple-npm-package/issues"
   },
-  "homepage": "https://github.com/snyk-labs/simple-npm-package#readme",
+  "homepage": "https://github.com/sanishchirayath1/simple-npm-package#readme",
   "keywords": [
     "node.js",
     "javascript",
